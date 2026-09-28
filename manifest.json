@@ -1,6 +1,6 @@
 {
   "name": "Android Kalkylator",
-  "short_name": "Kalkylator",
+  "short_name": "Android Kalkylator",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
