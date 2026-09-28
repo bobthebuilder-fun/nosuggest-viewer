@@ -1,5 +1,5 @@
 {
-  "name": "Kalkylator",
+  "name": "Android Kalkylator",
   "short_name": "Kalkylator",
   "start_url": "./index.html",
   "display": "standalone",
