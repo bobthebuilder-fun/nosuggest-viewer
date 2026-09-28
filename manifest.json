@@ -1,6 +1,6 @@
 {
-  "name": "Calculator",
-  "short_name": "Calculator",
+  "name": "Kalkylator",
+  "short_name": "Kalkylator",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
